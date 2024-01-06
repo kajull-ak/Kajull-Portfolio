@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Kajull-Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Kajull-Portfolio/static/js/main.ca45a5b3.js",
+    "static/media/leaflet1.png": "/Kajull-Portfolio/static/media/leaflet1.9474582173f531a7bcf1.png",
+    "static/media/Portfolio.png": "/Kajull-Portfolio/static/media/Portfolio.3119a0ae177391b99f69.png",
+    "static/media/bmi.png": "/Kajull-Portfolio/static/media/bmi.158f6c0e852167664a4d.png",
+    "static/media/fiverr.jpg": "/Kajull-Portfolio/static/media/fiverr.0f5ba82ed4afbbe95f07.jpg",
+    "static/media/HeroImage.jpg": "/Kajull-Portfolio/static/media/HeroImage.403d912c5a3795a2dede.jpg",
+    "static/media/imrich.png": "/Kajull-Portfolio/static/media/imrich.eedb34cd428f70aaa947.png",
+    "static/media/Todo.png": "/Kajull-Portfolio/static/media/Todo.0240378dbe66de3ab8c8.png",
+    "index.html": "/Kajull-Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Kajull-Portfolio/static/css/main.bf538fe7.css.map",
+    "main.ca45a5b3.js.map": "/Kajull-Portfolio/static/js/main.ca45a5b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.ca45a5b3.js"
+  ]
+}
