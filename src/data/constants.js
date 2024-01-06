@@ -18,7 +18,7 @@ export const Bio = {
     "https://drive.google.com/file/d/1LuEt7-paqewvrYsvi2ck9zoOT5ldPjMG/view",
   linkedin: "https://www.linkedin.com/in/akram-chergui-65550a259/",
   insta: "https://www.instagram.com/kajull_/",
-  facebook: "https://www.facebook.com/the.kajull/",
+  facebook: "https://web.facebook.com/the.kajull/",
 };
 
 export const skills = [
