@@ -101,7 +101,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Akram Chergui. this Portfolio was inspired by .
+          &copy; 2024 Akram Chergui.
         </Copyright>
 
       </FooterWrapper>
