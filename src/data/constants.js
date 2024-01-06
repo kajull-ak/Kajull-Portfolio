@@ -245,8 +245,8 @@ export const projects = [
       image:Portfolio,
     tags: ["React Js", "Html", "Css", "JavaScript "],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/kajull-ak/Kajull-Portfolio",
+    webapp: "https://kajull-ak.github.io/Kajull-Portfolio/",
   },
   {
     id: 1,
